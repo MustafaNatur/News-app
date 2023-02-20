@@ -8,7 +8,7 @@ PET project: news app
 
 ---
 
-### Gameplay
+### About
 In this lab, I am asked to create an application that will, using the API, load news headlines and show them as a list.
 Tap on the news from the list to go to view the full information on the selected news.
 
